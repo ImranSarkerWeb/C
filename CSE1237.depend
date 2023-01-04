@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672417683 source:d:\c-tuto\cse1237\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1671982142 source:d:\c-tuto\cse1237\condition.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
