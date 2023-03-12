@@ -18,9 +18,9 @@ int main()
     printf("===== Welcome to Comparing Software =====\n");
 
     printf("Enter your first number: ");
-    scanf("%d", num1);
+    scanf("%d", &num1);
     printf("Enter your second number: ");
-    scanf("%d", num2);
+    scanf("%d", &num2);
 
     printf("The maximum number is: %d", max(num1, num2));
 
