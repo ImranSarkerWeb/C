@@ -12,7 +12,7 @@ int max(int num1, int num2){
     }
 }
 
-main()
+int main()
 {   int num1;
     int num2;
     printf("===== Welcome to Comparing Software =====\n");
